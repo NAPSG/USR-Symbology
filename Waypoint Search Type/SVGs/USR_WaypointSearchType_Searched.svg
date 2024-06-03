@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="91"
+   height="91"
+   version="1.1"
+   viewBox="0 0 91 91"
+   id="svg6891"
+   sodipodi:docname="SHI_SROE_Not_Searched.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview6893"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="4.5989011"
+     inkscape:cx="55.774194"
+     inkscape:cy="65.232975"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6891" />
+  <defs
+     id="defs6883">
+    <style
+       id="style6881">.cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 6px;
+      }</style>
+  </defs>
+  <circle
+     class="cls-1"
+     cx="45.92"
+     cy="45.92"
+     r="45"
+     stroke-width="1.0608"
+     id="circle6885" />
+  <circle
+     class="cls-2"
+     cx="45.5"
+     cy="45.5"
+     r="41.693203"
+     stroke="#8f8f8f"
+     id="circle6887"
+     style="stroke:#7f7f7f;stroke-opacity:1" />
+  <path
+     d="M 26.220272,19.417088 71.433008,64.785244 64.762317,71.478973 19.54958,26.110817 Z"
+     fill="#8f8f8f"
+     id="path6889"
+     style="fill:#7f7f7f;fill-opacity:1;stroke-width:1.10227" />
+</svg>

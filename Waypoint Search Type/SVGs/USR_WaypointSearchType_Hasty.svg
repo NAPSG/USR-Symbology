@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="91"
+   height="91"
+   version="1.1"
+   viewBox="0 0 91 91"
+   id="svg384"
+   sodipodi:docname="SHI_SROE_Hasty.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview386"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="4.5989011"
+     inkscape:cx="-12.502987"
+     inkscape:cy="77.62724"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg384" />
+  <defs
+     id="defs376">
+    <style
+       id="style374">.cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 6px;
+      }</style>
+  </defs>
+  <circle
+     class="cls-1"
+     cx="45.919998"
+     cy="45.919998"
+     r="45"
+     stroke-width="1.0608"
+     id="circle378" />
+  <circle
+     class="cls-2"
+     cx="45.5"
+     cy="45.5"
+     r="41.693203"
+     id="circle380"
+     style="stroke:#cd6515;stroke-opacity:1" />
+  <path
+     d="M 64.790102,19.611825 45.498687,38.903239 26.215364,19.617764 19.612511,26.220617 38.897986,45.503941 19.615147,64.78678 26.218,71.38745 45.499281,52.106169 l 19.289373,19.28722 6.60067,-6.60067 -19.287221,-19.289372 19.289842,-19.289842 -6.60067,-6.602853 z"
+     stroke-width="0.982868"
+     id="path382"
+     style="display:inline;fill:#cd6515;fill-opacity:1" />
+</svg>

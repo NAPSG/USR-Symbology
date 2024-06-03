@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="91.000015"
+   height="91.000015"
+   viewBox="0 0 24.077087 24.077087"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="USR_HAZ1_MediumRisk.svg"
+   inkscape:export-filename="C:\Users\15402\OneDrive\Desktop\USR\USR_Search\RST_HAZ\USR_HAZ_HR.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0.5"
+     fit-margin-left="0.5"
+     fit-margin-right="0.5"
+     fit-margin-bottom="0.5"
+     units="px"
+     inkscape:zoom="5.12"
+     inkscape:cx="20.3125"
+     inkscape:cy="95.800782"
+     inkscape:window-width="1952"
+     inkscape:window-height="1501"
+     inkscape:window-x="4662"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1382">
+      <path
+         d="M 0,256 H 255 V 0 H 0 Z"
+         id="path1380" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1382-1">
+      <path
+         d="M 0,256 H 255 V 0 H 0 Z"
+         id="path1380-6" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1382-15">
+      <path
+         d="M 0,256 H 255 V 0 H 0 Z"
+         id="path1380-5" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1382-2">
+      <path
+         d="M 0,256 H 255 V 0 H 0 Z"
+         id="path1380-7" />
+    </clipPath>
+  </defs>
+  <path
+     d="M 22.924261,22.924261 H 1.1528267 V 1.1528267 H 22.924261 Z"
+     style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.604762"
+     id="path1384" />
+  <path
+     id="path1394"
+     style="display:inline;fill:none;stroke:#231f20;stroke-width:2.04107;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+     d="M 1.1528267,22.924261 22.924261,1.1528267 m 0,21.7714343 H 1.1528267 V 1.1528267 H 22.924261 Z" />
+</svg>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   data-name="Layer 1"
+   version="1.1"
+   viewBox="0 0 91 91.000002"
+   id="svg5678"
+   sodipodi:docname="HumanRemainsConfirmed.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   inkscape:export-filename="C:\Users\15402\OneDrive\Desktop\To Upload\USR_WideAreaSearch_SearchHumanInteractions_VictimConfirmed.png"
+   inkscape:export-xdpi="273.06589"
+   inkscape:export-ydpi="273.06589"
+   width="91"
+   height="91"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview5680"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     showgrid="false"
+     inkscape:zoom="6.2629458"
+     inkscape:cx="36.484429"
+     inkscape:cy="48.22012"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5678"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
+    <sodipodi:guide
+       position="0.49782608,1.3345824"
+       orientation="1,0"
+       id="guide3838"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="91.679689,0.49609376"
+       orientation="0,-1"
+       id="guide3840"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="91.597951,45.496574"
+       orientation="0,-1"
+       id="guide3842"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-0.4588618,90.499424"
+       orientation="0,-1"
+       id="guide3844"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="90.504145,91.359079"
+       orientation="1,0"
+       id="guide3864"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="45.503907,91.285157"
+       orientation="1,0"
+       id="guide3866"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs5662">
+    <style
+       id="style5660">.cls-1 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+        stroke-width: 3px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #0f1600;
+        stroke-linecap: round;
+        stroke-miterlimit: 4.04;
+        stroke-width: 4.24px;
+      }
+
+      .cls-3 {
+        stroke: #fff;
+        stroke-width: .63px;
+      }
+
+      .cls-3, .cls-4 {
+        fill-rule: evenodd;
+      }
+
+      .cls-5 {
+        fill: #fff8f5;
+      }</style>
+  </defs>
+  <path
+     class="cls-5"
+     d="M 0.5,45.584206 45.500001,0.5 90.5,45.54458 45.500001,90.5 Z"
+     id="path5664"
+     style="fill:#ffffff;stroke-width:0.989819"
+     inkscape:export-filename="C:\Users\15402\OneDrive\Desktop\To Upload\USR_WideAreaSearch_SearchHumanInteractions_HumanRemainsRemoved.png"
+     inkscape:export-xdpi="273.06589"
+     inkscape:export-ydpi="273.06589" />
+  <path
+     class="cls-2"
+     d="M 7.4914809,45.580409 45.503205,7.4936372 83.496763,45.516886 45.503205,83.521984 Z"
+     id="path5666" />
+  <path
+     class="cls-4"
+     d="M 45.500001,22 C 32.540184,22 22,32.526236 22,45.500001 22,58.473768 32.540184,69 45.500001,69 58.459816,69 69,58.473767 69,45.5 69,32.526235 58.459816,21.999999 45.500001,22 Z m 0,2.33712 c 11.715184,0 21.184814,9.46809 21.184814,21.162881 0,11.694793 -9.460926,21.16288 -21.184814,21.16288 -11.72389,0 -21.184816,-9.468088 -21.184816,-21.16288 0,-11.694791 9.469629,-21.162881 21.184816,-21.162881 z"
+     color-rendering="auto"
+     image-rendering="auto"
+     shape-rendering="auto"
+     id="path5668"
+     style="stroke-width:0.894902"
+     inkscape:label="path5668" />
+  <line
+     class="cls-1"
+     x1="26.421476"
+     x2="64.578522"
+     y1="45.495461"
+     y2="45.504539"
+     id="line5670" />
+  <path
+     class="cls-3"
+     d="M 57.716489,29.428598 48.969704,61.571402 H 42.039491 L 33.283624,29.428598 h 6.494236 l 5.803942,22.578006 5.803941,-22.578006 z"
+     id="path5676"
+     inkscape:label="path5676" />
+</svg>

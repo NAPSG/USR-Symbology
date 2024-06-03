@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="91"
+   height="91"
+   viewBox="0 0 24.077083 24.077083"
+   version="1.1"
+   id="svg794"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="E24.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview796"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     showguides="false"
+     inkscape:zoom="8.8571429"
+     inkscape:cx="45.443548"
+     inkscape:cy="45.5"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg794">
+    <sodipodi:guide
+       position="0.13154672,24.129702"
+       orientation="1,0"
+       id="guide915"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-0.06723499,23.945536"
+       orientation="0,-1"
+       id="guide917"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="12.039575,24.119458"
+       orientation="1,0"
+       id="guide919"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="12.061279,12.037508"
+       orientation="0,-1"
+       id="guide921"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="23.945825,-0.038240559"
+       orientation="1,0"
+       id="guide923"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="24.112223,0.13125814"
+       orientation="0,-1"
+       id="guide925"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs791">
+    <pattern
+       id="EMFhbasepattern"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+    <pattern
+       id="EMFhbasepattern-4"
+       patternUnits="userSpaceOnUse"
+       width="6"
+       height="6"
+       x="0"
+       y="0" />
+  </defs>
+  <path
+     style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.198437"
+     d="M 12.038541,0.72760418 0.13229185,9.3927081 4.6963541,23.349479 H 19.380729 L 23.944791,9.3927081 Z"
+     id="path967" />
+  <path
+     style="fill:none;stroke:#181818;stroke-width:1.05833px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+     d="M 12.038541,2.5086798 1.918229,9.7847213 5.8208329,21.69097 H 18.256249 L 22.158854,9.7847213 Z"
+     id="path956" />
+  <path
+     d="m 8.3209532,7.5407547 c -0.4322393,0 -0.8645274,0.079157 -1.2967667,0.2377293 -0.42914,0.1585781 -0.7542482,0.3172041 -0.975034,0.4757827 v 2.5395893 h 0.149298 C 6.4689957,10.492051 6.7614663,10.243969 7.0755392,10.049589 7.3927278,9.855207 7.6944338,9.7582839 7.980527,9.7582839 c 0.382496,0 0.6746425,0.1430476 0.8767647,0.4295151 0.2052379,0.281353 0.3077914,0.683064 0.3077914,1.204843 0,0.434818 -0.079145,0.874555 -0.2377292,1.319599 C 8.7687608,13.157286 8.5013466,13.679 8.1250668,14.277494 7.8731846,14.681608 7.5371866,15.162502 7.1173792,15.720083 6.7006875,16.27766 6.2842229,16.804666 5.8675159,17.300865 v 1.887649 H 11.320292 V 17.001595 H 8.1995273 c 0.1212781,-0.143233 0.3250435,-0.393794 0.6111365,-0.751882 0.286093,-0.363196 0.5706448,-0.759621 0.8536385,-1.189309 0.4509027,-0.690579 0.7852457,-1.360955 1.0029307,-2.010669 0.220787,-0.649667 0.330938,-1.334988 0.330938,-2.056274 0,-1.0998228 -0.228513,-1.9489971 -0.685632,-2.5475405 C 9.8554195,7.8422983 9.1916509,7.5406249 8.3210214,7.5406249 Z m 7.1180808,0.2225222 -3.251247,6.6297391 v 2.163711 h 3.36323 v 2.662606 h 1.711724 v -2.662606 h 0.946826 V 14.469781 H 17.262741 V 7.7634392 Z m 0.111894,2.5780521 v 4.128452 h -2.019755 z"
+     fill-rule="evenodd"
+     stroke-width="0"
+     id="path641"
+     style="fill:#181818;fill-opacity:1" />
+</svg>

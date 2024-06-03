@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="91"
+   height="91"
+   version="1.1"
+   viewBox="0 0 24.077083 24.077083"
+   id="svg951"
+   sodipodi:docname="USR_EventPoint_OtherIncidentSupport_Helibase.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs955" />
+  <sodipodi:namedview
+     id="namedview953"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="12.833333"
+     inkscape:cx="45.506494"
+     inkscape:cy="45.506494"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg951"
+     fit-margin-top="0.5"
+     fit-margin-left="0.5"
+     fit-margin-right="0.5"
+     fit-margin-bottom="0.5" />
+  <metadata
+     id="metadata943">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <circle
+     cx="12.038542"
+     cy="12.038542"
+     r="11.024335"
+     fill="#ffffff"
+     fill-rule="evenodd"
+     id="circle945"
+     style="stroke-width:1.66667"
+     inkscape:export-filename="C:\Users\15402\OneDrive\Desktop\To Upload\USR_EventPoint_OtherIncidentSupport_Helibase.png"
+     inkscape:export-xdpi="273.06671"
+     inkscape:export-ydpi="273.06671" />
+  <path
+     d="m 17.086043,18.646043 h -1.7525 V 12.193875 H 8.7575408 v 6.452168 H 7.0050404 V 5.4673736 H 8.7575408 V 10.636208 H 15.333543 V 5.4673736 h 1.7525 z"
+     fill="#900090"
+     id="path947"
+     style="stroke-width:1.66667"
+     inkscape:export-filename="C:\Users\15402\OneDrive\Desktop\To Upload\USR_EventPoint_OtherIncidentSupport_Helibase.png"
+     inkscape:export-xdpi="273.06671"
+     inkscape:export-ydpi="273.06671" />
+  <circle
+     cx="12.038542"
+     cy="12.038542"
+     r="11.024335"
+     fill="none"
+     stroke="#900090"
+     stroke-width="1.76383"
+     id="circle949"
+     inkscape:export-filename="C:\Users\15402\OneDrive\Desktop\To Upload\USR_EventPoint_OtherIncidentSupport_Helibase.png"
+     inkscape:export-xdpi="273.06671"
+     inkscape:export-ydpi="273.06671" />
+</svg>

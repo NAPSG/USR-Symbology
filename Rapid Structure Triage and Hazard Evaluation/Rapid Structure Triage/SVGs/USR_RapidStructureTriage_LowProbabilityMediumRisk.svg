@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="91.000015"
+   height="91.000015"
+   viewBox="0 0 24.077087 24.077087"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="USR_RST_LowProbabilityMediumRisk.svg"
+   inkscape:export-filename="C:\Users\15402\OneDrive\Desktop\Complete Symbols\RST\USR_HAZ_MediumProbabilityMediumRisk.png"
+   inkscape:export-xdpi="270.07001"
+   inkscape:export-ydpi="270.07001"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0.5"
+     fit-margin-left="0.5"
+     fit-margin-right="0.5"
+     fit-margin-bottom="0.5"
+     units="px"
+     inkscape:zoom="5.12"
+     inkscape:cx="31.054688"
+     inkscape:cy="108.69141"
+     inkscape:window-width="1952"
+     inkscape:window-height="1501"
+     inkscape:window-x="4662"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1382">
+      <path
+         d="M 0,256 H 255 V 0 H 0 Z"
+         id="path1380" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1382-1">
+      <path
+         d="M 0,256 H 255 V 0 H 0 Z"
+         id="path1380-6" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1382-15">
+      <path
+         d="M 0,256 H 255 V 0 H 0 Z"
+         id="path1380-5" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1382-2">
+      <path
+         d="M 0,256 H 255 V 0 H 0 Z"
+         id="path1380-7" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1212">
+      <path
+         d="M 0,256 H 255 V 0 H 0 Z"
+         id="path1210" />
+    </clipPath>
+  </defs>
+  <path
+     d="m 0.83266168,12.038543 v 7.332849 c 0,2.143125 1.73691172,3.873033 3.87303302,3.873033 H 19.378397 c 2.136121,0 3.866029,-1.729908 3.866029,-3.873033 v -7.332849 z"
+     style="display:inline;fill:#ffc821;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.700368"
+     id="path1220"
+     inkscape:export-filename="C:\Users\15402\OneDrive\Desktop\USR\USR_Search\RST_HAZ\USR_RST_LPMR.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <path
+     d="M 0.83266168,4.7056947 V 12.038543 H 23.244426 V 4.7056947 c 0,-2.143125 -1.729908,-3.87303302 -3.866029,-3.87303302 H 4.7056947 c -2.1361214,0 -3.87303302,1.72990802 -3.87303302,3.87303302"
+     style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.700368"
+     id="path1228"
+     inkscape:export-filename="C:\Users\15402\OneDrive\Desktop\USR\USR_Search\RST_HAZ\USR_RST_LPMR.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <path
+     id="path1232"
+     style="display:inline;fill:none;stroke:#231f20;stroke-width:1.40074;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+     d="M 0.83266168,4.7056947 V 12.038543 H 23.244426 V 4.7056947 c 0,-2.143125 -1.729908,-3.87303302 -3.866029,-3.87303302 H 4.7056948 c -2.1361213,0 -3.87303312,1.72990802 -3.87303312,3.87303302 z m 0,7.3328483 v 7.332849 c 0,2.143125 1.73691182,3.873033 3.87303312,3.873033 H 19.378397 c 2.136121,0 3.866029,-1.729908 3.866029,-3.873033 v -7.332849 z"
+     inkscape:export-filename="C:\Users\15402\OneDrive\Desktop\USR\USR_Search\RST_HAZ\USR_RST_LPMR.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+  <path
+     id="path5992"
+     d="m 15.137007,18.536267 v 2.645353 h -1.574498 v -6.674504 h 2.933847 q 0.811698,0 1.300673,0.1907 0.493864,0.185811 0.816587,0.689454 0.322724,0.503644 0.322724,1.119752 0,1.202878 -1.15887,1.726081 l 1.232216,2.948517 h -1.726081 l -1.026846,-2.645353 z m 0,-2.840943 v 1.701632 h 0.95839 q 0.469416,0 0.679675,-0.06357 0.215149,-0.06846 0.3814,-0.293384 0.166251,-0.229818 0.166251,-0.523203 0,-0.278716 -0.166251,-0.498754 -0.166251,-0.220039 -0.361841,-0.268936 -0.19559,-0.05379 -0.733462,-0.05379 z M 7.8987948,21.18162 6.2558401,15.739332 v 5.442288 h -1.310452 v -6.674504 h 2.4350936 l 1.1686494,3.994923 1.232216,-3.994923 H 12.22133 V 21.18162 H 10.646832 V 15.739332 L 8.9696492,21.18162 Z M 13.624622,7.7369441 V 10.216045 H 12.035455 V 3.5415418 h 2.630683 q 0.880154,0 1.34468,0.1907001 0.469416,0.1858104 0.836147,0.6698953 0.366731,0.4840848 0.366731,1.1882083 0,0.4938643 -0.19559,0.96328 -0.19559,0.4694156 -0.552541,0.7383517 -0.356952,0.268936 -0.694344,0.3569514 -0.332503,0.088016 -1.046406,0.088016 z M 13.570835,6.524287 h 1.017067 q 0.58188,0 0.816588,-0.268936 0.234707,-0.2689361 0.234707,-0.6161081 0,-0.4058489 -0.264046,-0.6454465 Q 15.115995,4.7541989 14.583012,4.7541989 H 13.570835 Z M 8.5874683,8.8958139 H 11.242601 V 10.216045 H 7.0031906 V 3.5415418 h 1.5842777 z"
+     inkscape:export-filename="C:\Users\15402\OneDrive\Desktop\USR\USR_Search\RST_HAZ\USR_RST_LPMR.png"
+     inkscape:export-xdpi="96"
+     inkscape:export-ydpi="96" />
+</svg>

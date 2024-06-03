@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="91"
+   height="91"
+   version="1.1"
+   viewBox="0 0 24.077 24.077"
+   id="svg1641"
+   sodipodi:docname="USR_EventPoint_OtherIncidentSupport_Medical.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs1645" />
+  <sodipodi:namedview
+     id="namedview1643"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     fit-margin-top="0.5"
+     fit-margin-bottom="0.5"
+     fit-margin-left="0.5"
+     fit-margin-right="0.5"
+     inkscape:zoom="8.4615385"
+     inkscape:cx="45.5"
+     inkscape:cy="45.5"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1641" />
+  <metadata
+     id="metadata1635">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     x="0.13229121"
+     y="0.13229121"
+     width="23.812418"
+     height="23.812418"
+     rx="0.79376388"
+     ry="0.79376388"
+     fill="#0000ff"
+     style="stroke-width:1.00002;paint-order:normal"
+     id="rect1637" />
+  <path
+     d="m 9.6574682,2.513543 h 4.7625838 v 7.1438252 h 7.143925 v 4.7625838 h -7.143925 v 7.143925 H 9.6574682 V 14.419952 H 2.513643 V 9.6573682 h 7.1438252 z"
+     fill="#ffffff"
+     id="path1639"
+     style="stroke-width:1.00002" />
+</svg>

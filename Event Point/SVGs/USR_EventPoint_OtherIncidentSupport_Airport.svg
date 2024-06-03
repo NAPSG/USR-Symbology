@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="91"
+   height="91"
+   version="1.1"
+   viewBox="0 0 24.077 24.077"
+   id="svg3125"
+   sodipodi:docname="USR_EventPoint_OtherIncidentSupport_Airport.svg"
+   inkscape:export-filename="C:\Users\15402\OneDrive\Desktop\To Upload\USR_EventPoint_OtherIncidentSupport_Airport.png"
+   inkscape:export-xdpi="270.06595"
+   inkscape:export-ydpi="270.06595"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs3129" />
+  <sodipodi:namedview
+     id="namedview3127"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="8.4615385"
+     inkscape:cx="45.5"
+     inkscape:cy="45.5"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3125" />
+  <metadata
+     id="metadata3117">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(4.101 4.101)"
+     id="g3123">
+    <circle
+       cx="7.9375"
+       cy="7.9375"
+       r="11.024"
+       fill="#fff"
+       fill-rule="evenodd"
+       stroke="#900090"
+       stroke-width="1.7639"
+       id="circle3119" />
+    <path
+       d="m9.28 11.969c-0.7371-1.4741-1.3555-2.6744-1.3742-2.6675-0.066328 0.024655-3.546 3.0003-3.546 3.0324 0 0.01793 0.035745 0.16083 0.079435 0.31755 0.10696 0.38369 0.14091 0.90737 0.071987 1.1103-0.075525 0.22241-0.25872 0.33615-0.54113 0.33596-0.15496-1.18e-4 -0.26114-0.02488-0.35697-0.0833-0.18689-0.11393-2.0933-2.0074-2.3083-2.2926-0.15787-0.20945-0.17353-0.25043-0.173-0.45278 7.056e-4 -0.268 0.055553-0.38771 0.23221-0.50676 0.18888-0.12728 0.60834-0.12294 1.1428 0.01184 0.22161 0.05588 0.40818 0.09575 0.4146 0.08859 0.095948-0.10713 2.6021-3.0715 2.7633-3.2686 0.19431-0.2375 0.21576-0.28 0.16631-0.32945-0.031225-0.031225-1.2156-0.64129-2.6319-1.3557s-2.5892-1.313-2.6064-1.3302c-0.034969-0.034969 0.13406-0.41261 0.3521-0.78663 0.096008-0.16469 0.16811-0.24608 0.218-0.24608 0.040997 0 1.6335 0.31104 3.539 0.69121 1.9054 0.38016 3.4884 0.68579 3.5176 0.67918 0.029241-0.0066146 0.60786-0.56212 1.2858-1.2345 1.7533-1.7387 2.0678-1.9989 2.6688-2.208 0.46447-0.16153 0.98438-0.12151 1.295 0.099679 0.31624 0.22518 0.44653 0.84547 0.28746 1.3685-0.18551 0.61003-0.63541 1.1624-2.2694 2.7865l-1.2255 1.2181 0.70664 3.5422c0.51187 2.5658 0.69576 3.5594 0.66715 3.6048-0.03573 0.05664-0.93539 0.55275-1.0057 0.55458-0.01621 4.21e-4 -0.63255-1.2053-1.3697-2.6794z"
+       fill="#900090"
+       id="path3121" />
+  </g>
+</svg>

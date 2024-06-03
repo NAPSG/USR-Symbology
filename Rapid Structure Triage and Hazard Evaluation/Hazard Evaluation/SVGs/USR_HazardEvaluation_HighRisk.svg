@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="90.795998"
+   height="91.204056"
+   viewBox="0 0 24.023107 24.131073"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="USR_HAZ1_HighRisk.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0.602"
+     fit-margin-left="0.5"
+     fit-margin-right="0.5"
+     fit-margin-bottom="0.602"
+     units="px"
+     inkscape:zoom="5.12"
+     inkscape:cx="48.4375"
+     inkscape:cy="76.074219"
+     inkscape:window-width="1952"
+     inkscape:window-height="1501"
+     inkscape:window-x="4662"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg5" />
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1382">
+      <path
+         d="M 0,256 H 255 V 0 H 0 Z"
+         id="path1380" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1382-1">
+      <path
+         d="M 0,256 H 255 V 0 H 0 Z"
+         id="path1380-6" />
+    </clipPath>
+  </defs>
+  <path
+     d="M 23.833916,0.15927917 H 0.23846148 V 23.892274 H 23.833916 Z"
+     style="display:inline;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.657337"
+     id="path1396" />
+  <path
+     id="path1398"
+     style="display:inline;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#231f20;stroke-width:2.03644;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none;stroke-opacity:1"
+     d="M 22.872596,1.2314894 H 1.1505116 V 22.953574 H 22.872596 Z m 0,21.7220846 L 1.1505116,1.2314894 m 21.7220844,0 L 1.1505116,22.953574" />
+</svg>
