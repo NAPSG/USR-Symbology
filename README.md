@@ -1,5 +1,5 @@
 # US&R Symbology
-
+### Click on an icon to view the symbol category
 |            |                     |
 | ---------- | ------------------- | 
 | <a href="https://github.com/NAPSG/USR-Symbology/tree/main/Wide%20Area%20Search"><img src="https://raw.githubusercontent.com/NAPSG/USR-Symbology/main/Wide%20Area%20Search/Search%20Human%20Interaction/SVGs/USR_WideAreaSearch_SearchHumanInteractions_Rescued.svg" align="center" width="100px"/></a> | **Wide Area Search** <br> |
