@@ -1,6 +1,6 @@
 # Resources
 ### Click below to download all Resource Symbols<br>
-<a href="https://github.com/NAPSG/USR-Symbology/raw/main/Resource/PNGs/resource_png.zip">PNG Downlaod</a> | <a href="https://github.com/NAPSG/USR-Symbology/raw/main/Resource/PNGs/resource_svg.zip">SVG Downlaod</a>
+<a href="https://github.com/NAPSG/USR-Symbology/raw/main/Resource/PNGs/resource_png.zip">PNG Downlaod</a> | <a href="https://github.com/NAPSG/USR-Symbology/raw/main/Resource/SVGs/resource_svg.zip">SVG Downlaod</a>
 
 |            |                     |
 | ---------- | ------------------- | 
