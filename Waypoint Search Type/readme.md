@@ -1,6 +1,6 @@
 # Waypoint Search Type
 ### Click below to download all Waypoint Search Type Symbols<br>
-<a href="https://github.com/NAPSG/USR-Symbology/raw/main/Waypoint%20Search%20Type/PNGs/searchtype_png.zip">PNG Downlaod</a> | <a href="https://github.com/NAPSG/USR-Symbology/raw/main/Waypoint%20Search%20Type/PNGs/searchtype_svg.zip">SVG Downlaod</a>
+<a href="https://github.com/NAPSG/USR-Symbology/raw/main/Waypoint%20Search%20Type/PNGs/searchtype_png.zip">PNG Downlaod</a> | <a href="https://github.com/NAPSG/USR-Symbology/raw/main/Waypoint%20Search%20Type/SVGs/searchtype_svg.zip">SVG Downlaod</a>
 
 |            |                     |
 | ---------- | ------------------- | 
