@@ -1,4 +1,7 @@
 # Resources
+### Click below to download all Resource Points<br>
+<a href="https://github.com/NAPSG/USR-Symbology/raw/main/Resource/PNGs/resource_png.zip">PNG Downlaod</a> | <a href="https://github.com/NAPSG/USR-Symbology/raw/main/Resource/PNGs/resource_svg.zip">SVG Downlaod</a>
+
 |            |                     |
 | ---------- | ------------------- | 
 | <img src="https://github.com/NAPSG/USR-Symbology/blob/main/Resource/SVGs/USR_Resource_CanineSearchTeam_HumanRemainsDetection.svg" align="center" width="70px"/> | **Human Remains Detection** <br> <a href="https://github.com/NAPSG/USR-Symbology/blob/main/Resource/PNGs/USR_Resource_CanineSearchTeam_HumanRemainsDetection.png">PNG</a> \| <a href="https://github.com/NAPSG/USR-Symbology/blob/main/Resource/SVGs/USR_Resource_CanineSearchTeam_HumanRemainsDetection.svg">SVG</a>|
