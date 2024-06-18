@@ -1,4 +1,8 @@
 # US&R Symbology
+### Click below to download all USR Symbols<br>
+<a href="https://github.com/NAPSG/USR-Symbology/raw/main/usrsymbology_full_lib.zip">Downlaod Full Library</a> | <a href="https://github.com/NAPSG/USR-Symbology/raw/main/usrsymbols_png.zip">Full Library PNG Downlaod</a> | <a href="https://github.com/NAPSG/USR-Symbology/raw/main/usrsymbols_svg.zip">Full Library SVG Downlaod</a>
+
+
 ### Click on an icon to view the symbol category
 |            |                     |
 | ---------- | ------------------- | 
