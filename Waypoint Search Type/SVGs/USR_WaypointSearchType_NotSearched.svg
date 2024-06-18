@@ -5,7 +5,7 @@
    version="1.1"
    viewBox="0 0 91 91"
    id="svg6891"
-   sodipodi:docname="SHI_SROE_Not_Searched.svg"
+   sodipodi:docname="USR_WaypointSearchType_NotSearched.svg"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -21,13 +21,13 @@
      inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="4.5989011"
-     inkscape:cx="55.774194"
-     inkscape:cy="65.232975"
+     inkscape:zoom="8.8571429"
+     inkscape:cx="45.443548"
+     inkscape:cy="45.5"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
-     inkscape:window-x="-8"
-     inkscape:window-y="-8"
+     inkscape:window-x="1912"
+     inkscape:window-y="52"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg6891" />
   <defs
@@ -46,22 +46,22 @@
   </defs>
   <circle
      class="cls-1"
-     cx="45.92"
-     cy="45.92"
-     r="45"
-     stroke-width="1.0608"
-     id="circle6885" />
+     cx="45.5"
+     cy="45.5"
+     stroke-width="1.04901"
+     id="circle6885"
+     r="44.5" />
   <circle
      class="cls-2"
      cx="45.5"
      cy="45.5"
-     r="41.693203"
      stroke="#8f8f8f"
      id="circle6887"
-     style="stroke:#7f7f7f;stroke-opacity:1" />
+     style="stroke:#7f7f7f;stroke-opacity:1"
+     r="41.979408" />
   <path
-     d="M 26.220272,19.417088 71.433008,64.785244 64.762317,71.478973 19.54958,26.110817 Z"
+     d="M 26.278537,19.625 71.375,64.721371 64.721464,71.375 19.625,26.278629 Z"
      fill="#8f8f8f"
      id="path6889"
-     style="fill:#7f7f7f;fill-opacity:1;stroke-width:1.10227" />
+     style="fill:#7f7f7f;fill-opacity:1;stroke-width:1.09755" />
 </svg>

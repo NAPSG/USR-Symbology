@@ -5,7 +5,7 @@
    version="1.1"
    viewBox="0 0 91 91"
    id="svg4853"
-   sodipodi:docname="SHI_SROE_Primary.svg"
+   sodipodi:docname="USR_WaypointSearchType_Primary.svg"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -21,9 +21,9 @@
      inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
-     inkscape:zoom="4.5989011"
-     inkscape:cx="7.9366786"
-     inkscape:cy="44.575866"
+     inkscape:zoom="8.8571429"
+     inkscape:cx="45.443548"
+     inkscape:cy="45.5"
      inkscape:window-width="1920"
      inkscape:window-height="1009"
      inkscape:window-x="-8"
@@ -46,23 +46,23 @@
   </defs>
   <circle
      class="cls-1"
-     cx="45.92"
-     cy="45.92"
-     r="45"
-     stroke-width="1.0608"
-     id="circle4847" />
+     cx="45.5"
+     cy="45.5"
+     stroke-width="1.04901"
+     id="circle4847"
+     r="44.5" />
   <circle
      class="cls-2"
      cx="45.5"
      cy="45.5"
-     r="41.693203"
      stroke="#ffc30b"
      id="circle4849"
-     style="stroke:#ffc000;stroke-opacity:1" />
+     style="stroke:#ffc000;stroke-opacity:1"
+     r="41.979408" />
   <path
-     d="M 64.790102,19.611825 45.498687,38.903239 26.215364,19.617764 19.612511,26.220617 38.897986,45.503941 19.615145,64.786781 26.217998,71.387452 45.49928,52.10617 64.788652,71.393391 71.389323,64.79272 52.102102,45.503348 71.391957,26.213493 64.791286,19.61064 Z"
+     d="M 64.776899,19.626184 45.496455,38.905397 26.224098,19.632119 19.625,26.230796 38.899508,45.501924 19.627633,64.772568 26.226731,71.369065 45.497048,52.099978 64.77545,71.375 71.372367,64.778504 52.096115,45.501332 71.375,26.223677 64.778083,19.625 Z"
      fill="#ffc30b"
-     stroke-width="0.982868"
+     stroke-width="0.982278"
      id="path4851"
      style="fill:#ffc000;fill-opacity:1" />
 </svg>
