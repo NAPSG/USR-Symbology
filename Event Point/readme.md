@@ -1,7 +1,7 @@
 # Event Point Symbology
 
 ### Click below to download all Event Symbols<br>
-<a href="https://github.com/NAPSG/USR-Symbology/raw/main/Event%20Point/PNGs/event_png.zip">PNG Downlaod</a> | <a href="https://github.com/NAPSG/USR-Symbology/raw/main/Event%20Point/PNGs/event_svg.zip">SVG Downlaod</a>
+<a href="https://github.com/NAPSG/USR-Symbology/raw/main/Event%20Point/PNGs/event_png.zip">PNG Downlaod</a> | <a href="https://github.com/NAPSG/USR-Symbology/raw/main/Event%20Point/SVGs/event_svg.zip">SVG Downlaod</a>
 
 |            |                     |
 | ---------- | ------------------- | 
