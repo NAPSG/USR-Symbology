@@ -1,6 +1,6 @@
 # US&R Symbology
 ### Click below to download all USR Symbols<br>
-<a href="https://github.com/NAPSG/USR-Symbology/raw/main/USR_Symbology_FullLibrary.zip">Downlaod Full Library</a> | <a href="https://github.com/NAPSG/USR-Symbology/raw/main/usrsymbols_png.zip">Full Library PNG Downlaod</a> | <a href="https://github.com/NAPSG/USR-Symbology/raw/main/usrsymbols_svg.zip">Full Library SVG Downlaod</a>
+<a href="https://github.com/NAPSG/USR-Symbology/raw/main/USR_Symbology_FullLibrary.zip">Download Full Library</a> | <a href="https://github.com/NAPSG/USR-Symbology/raw/main/usrsymbols_png.zip">Full Library PNG Download</a> | <a href="https://github.com/NAPSG/USR-Symbology/raw/main/usrsymbols_svg.zip">Full Library SVG Download</a>
 
 
 ### Click on an icon to view the symbol category
