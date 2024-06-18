@@ -1,6 +1,6 @@
 ## Rapid Structure Traige
 
-### Click below to download all Rapid Structure Triage and Hazard Evauation Points<br>
+### Click below to download all Rapid Structure Triage and Hazard Evauation Symbols<br>
 <a href="https://github.com/NAPSG/USR-Symbology/raw/main/Rapid%20Structure%20Triage%20and%20Hazard%20Evaluation/rsthaz_png.zip">PNG Downlaod</a> | <a href="https://github.com/NAPSG/USR-Symbology/raw/main/Rapid%20Structure%20Triage%20and%20Hazard%20Evaluation/rsthaz_svg.zip">SVG Downlaod</a>
 
 |            |                     |

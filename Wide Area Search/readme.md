@@ -1,4 +1,8 @@
 # Wide Area Search
+
+### Click below to download all Wide Area Search Symbols<br>
+<a href="https://github.com/NAPSG/USR-Symbology/raw/main/Wide%20Area%20Search/was_png.zip">PNG Downlaod</a> | <a href="https://github.com/NAPSG/USR-Symbology/raw/main/Wide%20Area%20Search/was_svg.zip">SVG Downlaod</a>
+
 ## Damage Observations
 |            |                     |
 | ---------- | ------------------- | 
