@@ -1,4 +1,7 @@
 # Waypoint Search Type
+### Click below to download all Waypoint Search Type Points<br>
+<a href="https://github.com/NAPSG/USR-Symbology/raw/main/Waypoint%20Search%20Type/PNGs/searchtype_png.zip">PNG Downlaod</a> | <a href="https://github.com/NAPSG/USR-Symbology/raw/main/Waypoint%20Search%20Type/PNGs/searchtype_svg.zip">SVG Downlaod</a>
+
 |            |                     |
 | ---------- | ------------------- | 
 | <img src="https://github.com/NAPSG/USR-Symbology/blob/main/Waypoint%20Search%20Type/SVGs/USR_WaypointSearchType_Hasty.svg" align="center" width="70px"/> | **Hasty** <br> <a href="https://github.com/NAPSG/USR-Symbology/blob/main/Waypoint%20Search%20Type/PNGs/USR_WaypointSearchType_Hasty.png">PNG</a> \| <a href="https://github.com/NAPSG/USR-Symbology/blob/main/Waypoint%20Search%20Type/SVGs/USR_WaypointSearchType_Hasty.svg">SVG</a>|
